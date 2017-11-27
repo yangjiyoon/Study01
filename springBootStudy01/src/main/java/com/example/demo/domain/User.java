@@ -1,4 +1,4 @@
-package com.example.angularStudy.domain;
+package com.example.demo.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

@@ -1,8 +1,8 @@
-package com.example.angularStudy.repository;
+package com.example.demo.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.example.angularStudy.domain.User;
+import com.example.demo.domain.User;
 
 public interface UserRepository extends JpaRepository<User, String> {
 

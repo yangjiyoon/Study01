@@ -1,4 +1,4 @@
-package com.example.angularStudy.rest;
+package com.example.demo.rest;
 
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.angularStudy.domain.User;
-import com.example.angularStudy.repository.UserRepository;
+import com.example.demo.domain.User;
+import com.example.demo.repository.UserRepository;
 
 @CrossOrigin
 @RestController
