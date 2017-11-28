@@ -27,4 +27,3 @@ databaseChangeLog:
             file: db/user.csv
             separator: ;
             tableName: user
-                    
